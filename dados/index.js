@@ -1,5 +1,5 @@
 const dados = 2;
-const tiradas = 100;
+const tiradas = 200;
 const arrayNumeroDados = [];
 
 const randomize = function () {
