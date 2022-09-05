@@ -1,5 +1,5 @@
-# misProyectos
-Repositorio que almacena proyectos personales de autoaprendizaje de JAVASCRIPT
+# Lanzamiento de dados
+
 
 Dados:
 Este programa lanza un número de dados determinados por el usuario, un número de veces que también es determinada por el usuario.
