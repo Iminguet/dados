@@ -14,4 +14,4 @@ I wanted to do this project after playing Catan.
 The program is prepared so that the values of: number of dice, number of faces and number of throws can be chosen freely.
 
 
-Praise the sun \[T]/ *
+Praise the sun \\[T]/ *
